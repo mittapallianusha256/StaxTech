@@ -2,8 +2,6 @@ Project 1: To-Do List
 
 Code (HTML + CSS + JavaScript)
 
-Create a single file named todo.htm
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -61,6 +59,6 @@ Create a single file named todo.htm
 Output Example
 
 When you open this in the browser:
-✅ You see an input box and “Add” button.
-✅ You can add tasks, mark them as completed, and delete them.
-✅ Tasks get crossed out when marked completed.
+* You see an input box and “Add” button.
+* You can add tasks, mark them as completed, and delete them.
+* Tasks get crossed out when marked completed.
